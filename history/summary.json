@@ -94,19 +94,19 @@
     "url": "https://unframed.in",
     "icon": "https://icons.duckduckgo.com/ip3/unframed.in.ico",
     "slug": "unframed",
-    "status": "down",
-    "uptime": "75.99%",
-    "uptimeDay": "75.99%",
-    "uptimeWeek": "75.99%",
-    "uptimeMonth": "75.99%",
-    "uptimeYear": "75.99%",
-    "time": 1021,
-    "timeDay": 1021,
-    "timeWeek": 1021,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "72.16%",
+    "uptimeDay": "72.16%",
+    "uptimeWeek": "72.16%",
+    "uptimeMonth": "72.16%",
+    "uptimeYear": "72.16%",
+    "time": 1003,
+    "timeDay": 1003,
+    "timeWeek": 1003,
+    "timeMonth": 1003,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2022-11-08": 61
+      "2022-11-08": 75
     }
   }
 ]
