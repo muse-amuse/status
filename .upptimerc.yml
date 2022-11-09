@@ -38,6 +38,9 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "4,14,24,34,44,54 * * * *"
+  uptime: "*/5 * * * *"
+
+runner: "[self-hosted, Linux]"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
