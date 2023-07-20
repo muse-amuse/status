@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1008,
-    "timeDay": 1298,
-    "timeWeek": 1202,
-    "timeMonth": 1063,
+    "timeDay": 770,
+    "timeWeek": 1127,
+    "timeMonth": 1064,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2023-01-25": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 785,
-    "timeDay": 977,
-    "timeWeek": 914,
-    "timeMonth": 804,
-    "timeYear": 785,
+    "time": 784,
+    "timeDay": 565,
+    "timeWeek": 856,
+    "timeMonth": 803,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 649,
-    "timeWeek": 591,
+    "time": 492,
+    "timeDay": 372,
+    "timeWeek": 552,
     "timeMonth": 516,
-    "timeYear": 493,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 1138,
-    "timeWeek": 1050,
+    "time": 888,
+    "timeDay": 679,
+    "timeWeek": 984,
     "timeMonth": 927,
-    "timeYear": 889,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 444,
-    "timeDay": 486,
-    "timeWeek": 491,
-    "timeMonth": 451,
+    "timeDay": 452,
+    "timeWeek": 479,
+    "timeMonth": 456,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2023-01-25": 17,
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 969,
-    "timeDay": 722,
-    "timeWeek": 690,
-    "timeMonth": 614,
-    "timeYear": 969,
+    "time": 967,
+    "timeDay": 464,
+    "timeWeek": 654,
+    "timeMonth": 615,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2023-01-21": 42,
