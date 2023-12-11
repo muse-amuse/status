@@ -107,11 +107,11 @@
     "url": "https://unframed.in",
     "icon": "https://icons.duckduckgo.com/ip3/unframed.in.ico",
     "slug": "unframed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 867,
     "timeDay": 2890,
@@ -119,6 +119,7 @@
     "timeMonth": 836,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-12-10": 20,
       "2023-01-25": 17,
       "2023-01-21": 42
