@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 1178,
-    "timeWeek": 1143,
+    "timeDay": 1279,
+    "timeWeek": 1219,
     "timeMonth": 965,
-    "timeYear": 991,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2023-01-25": 19
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 766,
-    "timeDay": 857,
-    "timeWeek": 829,
-    "timeMonth": 717,
-    "timeYear": 753,
+    "timeDay": 969,
+    "timeWeek": 887,
+    "timeMonth": 716,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
-    "timeDay": 574,
-    "timeWeek": 545,
+    "timeDay": 643,
+    "timeWeek": 584,
     "timeMonth": 465,
-    "timeYear": 484,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 1025,
-    "timeWeek": 967,
+    "timeDay": 1128,
+    "timeWeek": 1035,
     "timeMonth": 831,
     "timeYear": 873,
     "dailyMinutesDown": {
@@ -85,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kadambarid.in.ico",
     "slug": "kd-home",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "99.67%",
     "time": 592,
-    "timeDay": 513,
-    "timeWeek": 465,
-    "timeMonth": 1606,
+    "timeDay": 516,
+    "timeWeek": 497,
+    "timeMonth": 1596,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2023-12-26": 768,
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
-    "time": 872,
-    "timeDay": 693,
-    "timeWeek": 641,
-    "timeMonth": 1058,
-    "timeYear": 847,
+    "time": 871,
+    "timeDay": 721,
+    "timeWeek": 679,
+    "timeMonth": 1057,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2023-12-12": 18,
       "2023-12-11": 108,
