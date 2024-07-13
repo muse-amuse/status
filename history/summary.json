@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 958,
-    "timeDay": 832,
-    "timeWeek": 912,
-    "timeMonth": 832,
-    "timeYear": 941,
+    "timeDay": 663,
+    "timeWeek": 904,
+    "timeMonth": 819,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-03-30": 46,
       "2024-01-06": 20
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 720,
-    "timeDay": 604,
-    "timeWeek": 667,
-    "timeMonth": 603,
-    "timeYear": 705,
+    "timeDay": 485,
+    "timeWeek": 663,
+    "timeMonth": 596,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2024-03-30": 46
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 455,
-    "timeDay": 353,
-    "timeWeek": 393,
-    "timeMonth": 350,
-    "timeYear": 442,
+    "time": 454,
+    "timeDay": 292,
+    "timeWeek": 392,
+    "timeMonth": 346,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2024-04-03": 40,
       "2024-03-30": 46
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 839,
-    "timeDay": 723,
-    "timeWeek": 786,
-    "timeMonth": 714,
-    "timeYear": 824,
+    "timeDay": 586,
+    "timeWeek": 782,
+    "timeMonth": 703,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-03-30": 45
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
     "time": 607,
-    "timeDay": 381,
-    "timeWeek": 1090,
-    "timeMonth": 661,
+    "timeDay": 360,
+    "timeWeek": 1067,
+    "timeMonth": 656,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2024-07-09": 17,
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 780,
-    "timeDay": 458,
-    "timeWeek": 470,
-    "timeMonth": 466,
-    "timeYear": 687,
+    "time": 778,
+    "timeDay": 376,
+    "timeWeek": 464,
+    "timeMonth": 461,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2024-03-30": 45,
       "2024-03-13": 18,
