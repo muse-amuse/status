@@ -8,8 +8,9 @@ sites:
     url: https://baali.muse-amuse.in
   - name: muse-amuse.in home page
     url: https://muse-amuse.in
-  - name: Ukulele tutorials
-    url: https://ukulele.muse-amuse.in
+  - name: TIKS RSVP app
+    url: https://rsvp.tiks-ultimate.in/
+    maxRedirects: 5
   - name: KD Home
     url: http://kadambarid.in
   - name: Unframed
