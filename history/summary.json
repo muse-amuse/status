@@ -58,19 +58,19 @@
     "url": "https://rsvp.tiks-ultimate.in/",
     "icon": "https://icons.duckduckgo.com/ip3/rsvp.tiks-ultimate.in.ico",
     "slug": "tiks-rsvp-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2755,
-    "timeDay": 9359,
-    "timeWeek": 2949,
-    "timeMonth": 2755,
-    "timeYear": 2755,
+    "status": "up",
+    "uptime": "97.24%",
+    "uptimeDay": "79.72%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "97.24%",
+    "time": 3190,
+    "timeDay": 8607,
+    "timeWeek": 3410,
+    "timeMonth": 3190,
+    "timeYear": 3190,
     "dailyMinutesDown": {
-      "2025-04-09": 0
+      "2025-04-09": 292
     }
   },
   {
