@@ -4,15 +4,15 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "95.48%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.77%",
     "time": 899,
     "timeDay": 926,
-    "timeWeek": 840,
+    "timeWeek": 856,
     "timeMonth": 873,
     "timeYear": 906,
     "dailyMinutesDown": {
@@ -41,7 +41,8 @@
       "2026-04-23": 96,
       "2026-05-18": 538,
       "2026-05-17": 977,
-      "2026-05-24": 67
+      "2026-05-24": 67,
+      "2026-05-25": 1
     }
   },
   {
@@ -49,15 +50,15 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "95.48%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.78%",
-    "time": 657,
+    "time": 658,
     "timeDay": 644,
-    "timeWeek": 581,
+    "timeWeek": 588,
     "timeMonth": 632,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -85,7 +86,8 @@
       "2026-04-23": 96,
       "2026-05-18": 539,
       "2026-05-17": 977,
-      "2026-05-24": 66
+      "2026-05-24": 66,
+      "2026-05-25": 1
     }
   },
   {
@@ -93,15 +95,15 @@
     "url": "https://muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.14%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "98.79%",
     "time": 383,
     "timeDay": 294,
-    "timeWeek": 326,
+    "timeWeek": 331,
     "timeMonth": 363,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -128,7 +130,8 @@
       "2026-04-01": 137,
       "2026-04-23": 96,
       "2026-05-18": 539,
-      "2026-05-17": 976
+      "2026-05-17": 976,
+      "2026-05-25": 1
     }
   },
   {
@@ -160,13 +163,13 @@
     "url": "http://kadambarid.in",
     "icon": "https://icons.duckduckgo.com/ip3/kadambarid.in.ico",
     "slug": "kd-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
-    "time": 995,
+    "time": 996,
     "timeDay": 821,
     "timeWeek": 943,
     "timeMonth": 1006,
@@ -198,7 +201,8 @@
       "2026-03-30": 68,
       "2026-04-02": 514,
       "2026-04-01": 137,
-      "2026-04-23": 96
+      "2026-04-23": 96,
+      "2026-05-25": 1
     }
   },
   {
@@ -206,13 +210,13 @@
     "url": "https://unframed.in",
     "icon": "https://icons.duckduckgo.com/ip3/unframed.in.ico",
     "slug": "unframed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 515,
+    "time": 516,
     "timeDay": 404,
     "timeWeek": 442,
     "timeMonth": 473,
@@ -241,7 +245,8 @@
       "2026-03-30": 68,
       "2026-04-02": 514,
       "2026-04-01": 137,
-      "2026-04-23": 96
+      "2026-04-23": 96,
+      "2026-05-25": 0
     }
   }
 ]
