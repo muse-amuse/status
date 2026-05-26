@@ -6,13 +6,13 @@
     "slug": "noetic-nought",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "98.76%",
-    "time": 899,
-    "timeDay": 897,
-    "timeWeek": 881,
+    "uptimeDay": "83.25%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "98.73%",
+    "time": 900,
+    "timeDay": 1074,
+    "timeWeek": 899,
     "timeMonth": 880,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -42,7 +42,8 @@
       "2026-05-18": 538,
       "2026-05-17": 977,
       "2026-05-24": 67,
-      "2026-05-25": 96
+      "2026-05-25": 112,
+      "2026-05-26": 129
     }
   },
   {
@@ -51,14 +52,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.64%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "98.73%",
     "time": 657,
-    "timeDay": 631,
-    "timeWeek": 609,
+    "timeDay": 771,
+    "timeWeek": 624,
     "timeMonth": 634,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -87,7 +88,8 @@
       "2026-05-18": 539,
       "2026-05-17": 977,
       "2026-05-24": 66,
-      "2026-05-25": 96
+      "2026-05-25": 112,
+      "2026-05-26": 129
     }
   },
   {
@@ -96,14 +98,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "98.77%",
+    "uptime": "99.64%",
+    "uptimeDay": "83.30%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "98.75%",
     "time": 383,
-    "timeDay": 375,
-    "timeWeek": 346,
+    "timeDay": 455,
+    "timeWeek": 356,
     "timeMonth": 364,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -131,7 +133,8 @@
       "2026-04-23": 96,
       "2026-05-18": 539,
       "2026-05-17": 976,
-      "2026-05-25": 96
+      "2026-05-25": 112,
+      "2026-05-26": 129
     }
   },
   {
@@ -145,10 +148,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1390,
-    "timeDay": 798,
-    "timeWeek": 1049,
-    "timeMonth": 1057,
+    "time": 1389,
+    "timeDay": 1067,
+    "timeWeek": 1024,
+    "timeMonth": 1058,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-09-27": 15,
@@ -164,14 +167,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kadambarid.in.ico",
     "slug": "kd-home",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "98.84%",
-    "time": 999,
-    "timeDay": 1026,
-    "timeWeek": 979,
+    "uptime": "99.49%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "98.81%",
+    "time": 1000,
+    "timeDay": 1231,
+    "timeWeek": 982,
     "timeMonth": 1014,
     "timeYear": 1079,
     "dailyMinutesDown": {
@@ -202,7 +205,8 @@
       "2026-04-02": 514,
       "2026-04-01": 137,
       "2026-04-23": 96,
-      "2026-05-25": 95
+      "2026-05-25": 111,
+      "2026-05-26": 129
     }
   },
   {
@@ -212,13 +216,13 @@
     "slug": "unframed",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "93.43%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "83.35%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.03%",
     "time": 516,
-    "timeDay": 456,
-    "timeWeek": 450,
+    "timeDay": 507,
+    "timeWeek": 449,
     "timeMonth": 473,
     "timeYear": 518,
     "dailyMinutesDown": {
@@ -246,7 +250,8 @@
       "2026-04-02": 514,
       "2026-04-01": 137,
       "2026-04-23": 96,
-      "2026-05-25": 94
+      "2026-05-25": 110,
+      "2026-05-26": 129
     }
   }
 ]
