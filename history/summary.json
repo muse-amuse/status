@@ -4,17 +4,17 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "60.30%",
-    "uptimeMonth": "87.40%",
-    "uptimeYear": "98.02%",
-    "time": 898,
-    "timeDay": 767,
-    "timeWeek": 878,
-    "timeMonth": 842,
-    "timeYear": 904,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "86.95%",
+    "uptimeWeek": "59.19%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "98.00%",
+    "time": 899,
+    "timeDay": 871,
+    "timeWeek": 896,
+    "timeMonth": 853,
+    "timeYear": 905,
     "dailyMinutesDown": {
       "2025-10-01": 201,
       "2025-10-02": 613,
@@ -48,7 +48,7 @@
       "2026-05-29": 617,
       "2026-05-28": 1440,
       "2026-05-30": 75,
-      "2026-05-31": 1
+      "2026-05-31": 113
     }
   },
   {
@@ -56,17 +56,17 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "60.31%",
-    "uptimeMonth": "87.41%",
-    "uptimeYear": "98.03%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "59.20%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "98.01%",
     "time": 657,
-    "timeDay": 575,
-    "timeWeek": 631,
-    "timeMonth": 603,
-    "timeYear": 658,
+    "timeDay": 642,
+    "timeWeek": 644,
+    "timeMonth": 611,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-10-01": 201,
       "2025-10-02": 613,
@@ -99,7 +99,7 @@
       "2026-05-29": 617,
       "2026-05-28": 1440,
       "2026-05-30": 75,
-      "2026-05-31": 1
+      "2026-05-31": 113
     }
   },
   {
@@ -107,16 +107,16 @@
     "url": "https://muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "60.98%",
-    "uptimeMonth": "87.56%",
-    "uptimeYear": "98.04%",
-    "time": 382,
-    "timeDay": 318,
-    "timeWeek": 351,
-    "timeMonth": 342,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "87.00%",
+    "uptimeWeek": "59.87%",
+    "uptimeMonth": "87.31%",
+    "uptimeYear": "98.02%",
+    "time": 383,
+    "timeDay": 365,
+    "timeWeek": 362,
+    "timeMonth": 348,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2025-10-01": 201,
@@ -149,7 +149,7 @@
       "2026-05-29": 617,
       "2026-05-28": 1440,
       "2026-05-30": 75,
-      "2026-05-31": 1
+      "2026-05-31": 113
     }
   },
   {
@@ -182,16 +182,16 @@
     "url": "http://kadambarid.in",
     "icon": "https://icons.duckduckgo.com/ip3/kadambarid.in.ico",
     "slug": "kd-home",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "94.79%",
-    "uptimeWeek": "60.99%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "98.11%",
-    "time": 1015,
-    "timeDay": 907,
-    "timeWeek": 949,
-    "timeMonth": 968,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "59.89%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "98.09%",
+    "time": 1016,
+    "timeDay": 955,
+    "timeWeek": 959,
+    "timeMonth": 973,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-06-30": 20,
@@ -227,7 +227,7 @@
       "2026-05-29": 617,
       "2026-05-28": 1440,
       "2026-05-30": 74,
-      "2026-05-31": 1
+      "2026-05-31": 112
     }
   },
   {
@@ -235,16 +235,16 @@
     "url": "https://unframed.in",
     "icon": "https://icons.duckduckgo.com/ip3/unframed.in.ico",
     "slug": "unframed",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "61.01%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "98.32%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "87.05%",
+    "uptimeWeek": "59.90%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "98.30%",
     "time": 517,
-    "timeDay": 395,
-    "timeWeek": 448,
-    "timeMonth": 449,
+    "timeDay": 436,
+    "timeWeek": 455,
+    "timeMonth": 452,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-09-19": 23,
@@ -277,7 +277,7 @@
       "2026-05-29": 616,
       "2026-05-28": 1440,
       "2026-05-30": 74,
-      "2026-05-31": 0
+      "2026-05-31": 112
     }
   }
 ]
