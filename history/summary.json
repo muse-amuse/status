@@ -4,17 +4,17 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "97.94%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "84.39%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.90%",
     "time": 896,
-    "timeDay": 729,
-    "timeWeek": 858,
-    "timeMonth": 871,
-    "timeYear": 902,
+    "timeDay": 722,
+    "timeWeek": 840,
+    "timeMonth": 866,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-10-01": 201,
       "2025-10-02": 613,
@@ -50,7 +50,7 @@
       "2026-05-30": 75,
       "2026-05-31": 173,
       "2026-06-22": 280,
-      "2026-07-06": 1
+      "2026-07-06": 225
     }
   },
   {
@@ -58,16 +58,16 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "97.94%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "84.40%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.90%",
     "time": 655,
-    "timeDay": 540,
-    "timeWeek": 647,
-    "timeMonth": 640,
+    "timeDay": 522,
+    "timeWeek": 629,
+    "timeMonth": 635,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-10-01": 201,
@@ -103,7 +103,7 @@
       "2026-05-30": 75,
       "2026-05-31": 173,
       "2026-06-22": 280,
-      "2026-07-06": 1
+      "2026-07-06": 225
     }
   },
   {
@@ -111,16 +111,16 @@
     "url": "https://muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "97.96%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.91%",
     "time": 380,
-    "timeDay": 285,
-    "timeWeek": 357,
-    "timeMonth": 362,
+    "timeDay": 292,
+    "timeWeek": 349,
+    "timeMonth": 361,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-10-01": 201,
@@ -155,7 +155,7 @@
       "2026-05-30": 75,
       "2026-05-31": 173,
       "2026-06-22": 280,
-      "2026-07-06": 0
+      "2026-07-06": 224
     }
   },
   {
