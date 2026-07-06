@@ -4,10 +4,10 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "97.94%",
     "time": 896,
@@ -49,7 +49,8 @@
       "2026-05-28": 1440,
       "2026-05-30": 75,
       "2026-05-31": 173,
-      "2026-06-22": 280
+      "2026-06-22": 280,
+      "2026-07-06": 1
     }
   },
   {
@@ -57,10 +58,10 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "97.94%",
     "time": 655,
@@ -101,7 +102,8 @@
       "2026-05-28": 1440,
       "2026-05-30": 75,
       "2026-05-31": 173,
-      "2026-06-22": 280
+      "2026-06-22": 280,
+      "2026-07-06": 1
     }
   },
   {
@@ -109,9 +111,9 @@
     "url": "https://muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "97.96%",
@@ -152,7 +154,8 @@
       "2026-05-28": 1440,
       "2026-05-30": 75,
       "2026-05-31": 173,
-      "2026-06-22": 280
+      "2026-06-22": 280,
+      "2026-07-06": 0
     }
   },
   {
