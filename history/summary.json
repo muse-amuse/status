@@ -4,17 +4,17 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.78%",
     "time": 873,
-    "timeDay": 670,
-    "timeWeek": 621,
-    "timeMonth": 540,
-    "timeYear": 870,
+    "timeDay": 612,
+    "timeWeek": 612,
+    "timeMonth": 541,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-10-01": 201,
       "2025-10-02": 613,
@@ -54,7 +54,7 @@
       "2026-07-08": 90,
       "2026-07-09": 364,
       "2026-07-31": 145,
-      "2026-08-21": 1
+      "2026-08-21": 27
     }
   },
   {
@@ -62,16 +62,16 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "97.79%",
-    "time": 654,
-    "timeDay": 677,
-    "timeWeek": 668,
-    "timeMonth": 633,
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "97.78%",
+    "time": 653,
+    "timeDay": 609,
+    "timeWeek": 652,
+    "timeMonth": 630,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-10-01": 201,
@@ -111,7 +111,7 @@
       "2026-07-08": 90,
       "2026-07-09": 364,
       "2026-07-31": 145,
-      "2026-08-21": 1
+      "2026-08-21": 27
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "https://muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/muse-amuse.in.ico",
     "slug": "muse-amuse-in-home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.84%",
-    "time": 380,
-    "timeDay": 349,
-    "timeWeek": 383,
-    "timeMonth": 365,
+    "time": 379,
+    "timeDay": 325,
+    "timeWeek": 373,
+    "timeMonth": 363,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-10-01": 201,
@@ -167,7 +167,7 @@
       "2026-07-08": 90,
       "2026-07-09": 154,
       "2026-07-31": 145,
-      "2026-08-21": 1
+      "2026-08-21": 27
     }
   },
   {
@@ -175,17 +175,17 @@
     "url": "http://kadambarid.in",
     "icon": "https://icons.duckduckgo.com/ip3/kadambarid.in.ico",
     "slug": "kd-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.94%",
     "time": 1072,
-    "timeDay": 948,
-    "timeWeek": 958,
-    "timeMonth": 994,
-    "timeYear": 1069,
+    "timeDay": 900,
+    "timeWeek": 945,
+    "timeMonth": 989,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2025-09-19": 23,
       "2025-10-01": 201,
@@ -225,7 +225,7 @@
       "2026-07-08": 90,
       "2026-07-09": 154,
       "2026-07-31": 145,
-      "2026-08-21": 1
+      "2026-08-21": 26
     }
   },
   {
@@ -233,16 +233,16 @@
     "url": "https://unframed.in",
     "icon": "https://icons.duckduckgo.com/ip3/unframed.in.ico",
     "slug": "unframed",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "98.17%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "98.16%",
     "time": 512,
-    "timeDay": 471,
-    "timeWeek": 467,
-    "timeMonth": 458,
+    "timeDay": 449,
+    "timeWeek": 462,
+    "timeMonth": 457,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2025-09-19": 23,
@@ -280,7 +280,7 @@
       "2026-07-08": 89,
       "2026-07-09": 153,
       "2026-07-31": 145,
-      "2026-08-21": 0
+      "2026-08-21": 26
     }
   }
 ]
