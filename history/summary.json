@@ -4,16 +4,16 @@
     "url": "https://punchagan.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/punchagan.muse-amuse.in.ico",
     "slug": "noetic-nought",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "97.76%",
     "time": 831,
-    "timeDay": 615,
+    "timeDay": 524,
     "timeWeek": 659,
-    "timeMonth": 656,
+    "timeMonth": 655,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2025-11-30": 197,
@@ -53,7 +53,8 @@
       "2026-09-29": 270,
       "2026-10-21": 627,
       "2026-10-20": 261,
-      "2026-11-05": 303
+      "2026-11-05": 303,
+      "2026-11-26": 1
     }
   },
   {
@@ -61,16 +62,16 @@
     "url": "https://baali.muse-amuse.in",
     "icon": "https://icons.duckduckgo.com/ip3/baali.muse-amuse.in.ico",
     "slug": "baali",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "97.76%",
     "time": 655,
-    "timeDay": 638,
+    "timeDay": 537,
     "timeWeek": 592,
-    "timeMonth": 644,
+    "timeMonth": 643,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2025-11-30": 198,
@@ -109,7 +110,8 @@
       "2026-09-29": 270,
       "2026-10-21": 627,
       "2026-10-20": 261,
-      "2026-11-05": 303
+      "2026-11-05": 303,
+      "2026-11-26": 0
     }
   },
   {
@@ -124,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 380,
-    "timeDay": 359,
+    "timeDay": 288,
     "timeWeek": 340,
-    "timeMonth": 370,
+    "timeMonth": 369,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-30": 198,
@@ -178,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 1050,
-    "timeDay": 919,
+    "timeDay": 712,
     "timeWeek": 839,
-    "timeMonth": 932,
+    "timeMonth": 931,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-11-30": 198,
@@ -233,7 +235,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
     "time": 500,
-    "timeDay": 463,
+    "timeDay": 379,
     "timeWeek": 419,
     "timeMonth": 449,
     "timeYear": 474,
